@@ -9,12 +9,16 @@ for i in range(vezes):
     notas.append(nota)
     soma += nota
 
-for j in range(len(notas)):
-    print("oi")
-    
 
+media = soma/len(notas)
 
-print(soma/len(notas))
+for i in range(vezes):
+    if notas[i] >= media + (media * 0.1):
+        acima += 1
+    if notas[i] < media - (media * 0.1): 
+        abaixo += 1
+
+   
+print("{:.2f}".format(media))
 print(acima)
 print(abaixo)
-

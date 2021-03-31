@@ -1,6 +1,3 @@
-'refazer'
-
-
 numeros = []
 vezes = int(input())
 
