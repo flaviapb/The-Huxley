@@ -1,4 +1,6 @@
-maior = "" #deixando vazia
+"Desenvolvido por Flávia"
+
+maior = "" 
 while True:
     frase = input().split() 
     tamanho = []

@@ -1,3 +1,5 @@
+"Desenvolvido por Flávia"
+
 palavras = []
 while True:
     tamanho = int(input())
