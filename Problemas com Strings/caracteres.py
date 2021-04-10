@@ -1,4 +1,4 @@
-"Desenvolvido por Flávia"
+"Desenvolvido por Flávinha"
 
 palavras = []
 while True:
