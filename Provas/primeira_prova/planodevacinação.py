@@ -1,4 +1,4 @@
-"Desenvolvido por Flávia"
+                                        "Desenvolvido por Flávia"
 
 idade = int(input("Sua idade:\n"))
 profissao = int(input("Profissao(1-saude;2-indigenas;3-professores;4-seguranca;5-sistema prisional; 6-outro):\n"))

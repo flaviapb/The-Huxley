@@ -1,3 +1,6 @@
+                                                "Desenvolvido por Flávia"
+
+
 while True:
   num = int(input())
   if num >= 2 and num <= 12:
