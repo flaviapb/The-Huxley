@@ -12,5 +12,5 @@ if circulo_1 > circulo_2:
 elif circulo_1 < circulo_2: 
     print("Segundo circulo")
 
-lif circulo_1 == circulo_2:
+elif circulo_1 == circulo_2:
     print("Iguais")

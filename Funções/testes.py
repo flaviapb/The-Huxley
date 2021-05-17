@@ -1,4 +1,4 @@
-                                            #Sem parâmetros
+#Sem parâmetros
 
 def pula_linha():
     print("\n")
@@ -74,3 +74,20 @@ print("Original: {}".format(lista))
 dobrando_valores(lista)
 print("Dobrada: {}".format(lista))
 mostra_linha()
+
+
+                                    #Entendendo o return
+
+def soma():  #defini a função
+    return 10  #falei que a função retorna o número 10
+
+num = soma() #falei que minha variavel reecebia minha função
+print( num ) #printa a variavel, ou seja, a função
+
+if num > 10:
+    print("oi")
+else:
+    print("tchau")
+
+       
+
